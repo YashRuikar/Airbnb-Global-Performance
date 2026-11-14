@@ -4,7 +4,9 @@ An interactive Power BI dashboard analyzing 279K+ Airbnb listings, 182K hosts an
 
 **Tools:** Power BI · Power Query · DAX · Excel
 
-![Dashboard Overview](dashboard-page-1.png)
+![Listing Growth](dashboard-page-1.png)
+![Market Share and Ratings](dashboard-page-2.png)
+![Reviews and Trust](dashboard-page-3.png)
 
 ## Dataset Overview
 
